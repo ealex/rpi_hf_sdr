@@ -3,6 +3,8 @@ This is a tentative rehash of https://github.com/bg3mdo/pisdr_hat.
 This will be a receive-only module.
 The **sound card's** output will be used as the system's audio output.
 
+The entire front-end is based on the [qrp-labs](http://qrp-labs.com/receiver) receiver module, without the isolation transformers.
+
 The project will use a [CX2047LNL](https://productfinder.pulseelectronics.com/api/open/part-attachments/datasheet/CX2047LNL) front-end transformer in a balanced configuration.
 
 The mixer is a [SN74CBTLV3253PWR](https://www.ti.com/lit/ds/symlink/sn74cbtlv3253.pdf)
