@@ -332,6 +332,10 @@
     [
       "aa380d65-f6e7-4beb-8453-4fccced22069",
       "CLOCK GEN"
+    ],
+    [
+      "44fdf52a-3601-4ef8-8485-68ba7492ed3f",
+      "AUDIO DAC+ADC"
     ]
   ],
   "text_variables": {}
